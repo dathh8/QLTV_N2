@@ -1,0 +1,102 @@
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.exe.config
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.exe
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.pdb
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.Properties.Resources.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.exe
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.pdb
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Baocao.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Khoa.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Login.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Main.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Muontra.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Nhanvien.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Nhaxb.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Sinhvien.resources
+C:\Users\admin\source\repos\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Sach.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.exe.config
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.exe
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\QLTV_N2.pdb
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.AssemblyReference.cache
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Baocao.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Khoa.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Login.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.Properties.Resources.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Main.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Muontra.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Nhanvien.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Nhaxb.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Sinhvien.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Sach.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.GenerateResource.cache
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.CoreCompileInputs.cache
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.exe
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.pdb
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\BouncyCastle.Crypto.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\itextsharp.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\itextsharp.xml
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.csproj.CopyComplete
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\EnvDTE.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\stdole.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\Microsoft.MSXML.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Inphieu.resources
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\RdlCompile.cache
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\RdlCompile.compiled
+D:\cong nghe .NET\QLTV_N2\QLTV_N2\obj\Debug\QLTV_N2.T_Inphieu2.resources
